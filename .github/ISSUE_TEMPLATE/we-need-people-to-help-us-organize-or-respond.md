@@ -2,7 +2,7 @@
 name: We Need People To Help Us Organize Or Respond
 about: Register a request for assistance organizing or responding to COVID-19 related
   event cancellations
-title: ''
+title: "[ORGANIZE]"
 labels: ''
 assignees: ''
 
