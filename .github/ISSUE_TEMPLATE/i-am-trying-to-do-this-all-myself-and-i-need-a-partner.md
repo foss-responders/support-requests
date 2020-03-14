@@ -1,5 +1,5 @@
 ---
-name: I Manage Events Or Communities And I Need Some Backup
+name: I'm trying to do this all myself and I need a partner
 about: Register a request for operational or emotional support while responding to  COVID-19
   related event cancellations
 title: "[HELP]"
